@@ -1,4 +1,5 @@
-# UDP Echo Server with String Length Calculation
+# UDP Echo Server with String Length Calculation-Computer Networks 
+
 
 ## Description
 This project implements a simple UDP client-server connection in C. The client sends a message to the server, and the server echoes the same message back to the client while also calculating the length of the string. The client then displays the echoed message and its length.
